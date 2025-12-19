@@ -33,3 +33,8 @@ h3 ~ p {
 h4.title2 + .text3 {
   border: 4px solid rgb(20, 48, 176);
 }
+
+text4,
+text4 {
+  background-color: rgb(227, 105, 105);
+}
